@@ -137,3 +137,7 @@ dmypy.json
 
 # Mic files to ignore
 database.db
+
+# web scraping
+web-scraping/logs/
+web-scraping/output/
